@@ -13,7 +13,7 @@ public class NotaFrequencia {
         double media = (nota1+nota2)/2;
         // media = nota1
         // media += nota2 
-        // meida /=2 
+        // meida /=2 //  caralho 
         System.out.println("A media do aluno é "+media);
         boolean mediaAprovada = media >= 50;
         System.out.println("O aluno está aprovado por Nota? "+mediaAprovada);
